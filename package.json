@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vlad-danilchenko.github.io/React-M2-CW1-Counter/",
+  "homepage": "https://kychataolena.github.io/React-M2-dropdown/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
